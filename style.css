@@ -1,0 +1,226 @@
+	*{
+		box-sizing: border-box;
+	}
+body{
+	background-color: grey;
+	margin: 0;
+	font-family: Arial;
+	
+}
+
+header{
+	
+	width: 100%;
+	
+	background-color: #722972;
+	overflow: auto;
+	margin-top: 0px;
+}
+
+ul {
+	list-style-type: none;
+		float: right;
+		margin-right: 50px;
+}
+
+
+
+
+nav li {
+  display: inline;
+  text-align: center;
+  flex: 1;
+  margin: 30px;
+ color: white; 
+}
+
+nav a{
+	color: white;
+}
+nav {
+	margin-right: 60px;
+}
+
+section {
+	
+	width: 80%;
+	margin: auto;
+	padding: 0;
+	background-color: #aaa;
+	 border: 1px solid #676767;
+	     margin-top: 50px;
+
+}
+
+.portfolio{
+	background-color: #eee;
+	margin: auto;
+	padding-top: 30px;
+}
+
+.description{
+	background-color: #aaa;
+	overflow: auto;
+	margin-top: 50px;
+   
+}
+
+.description p{
+	 margin-top: 30px;
+    margin-left: 40px;
+}
+.portfolio_img{
+	border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    float: right;
+    margin-bottom: 50px;
+    margin-right: 50px;
+}
+.bar1 {
+	 display: block;
+   
+  margin-left: 100px;
+    margin-top: 50px;
+    margin-right: 60px;
+    border-style: inset;
+    border-top: 5px solid white;
+}
+.bar2 {
+	 display: block;
+       margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 300px;
+    margin-right:300px;
+    border-style: inset;
+    border-top: 5px solid #888;
+}
+.separator{
+	border-top: 2px solid #bebebe;
+	margin-top: 40px;
+}
+
+.about_page{
+	display: inline-block;
+	width: 49%;
+
+
+}
+.social_media{
+	display: inline-block;
+	width: 49%
+
+}
+
+.top_footer{
+	
+		margin: auto;
+		background-color: #aaa;
+		text-align: center;
+		padding-top: 30px;
+    padding-bottom: 30px;
+
+
+}
+
+.projects{
+text-align: center;
+}
+.clearfloat{
+	display: inline-block;
+	width: 100%;
+}
+
+.text{
+	display: inline-block;
+}
+
+
+.bottom_footer{
+background-color: #722972;
+width: 100%;
+height: max-content;
+    padding-top: 10px;
+    text-align: center;
+}
+
+h4 ,h2{
+ color: white;
+}
+
+
+
+.ion-social-linkedin-outline{
+	border-radius: 50%;
+
+}
+
+h3{
+	color: white;
+	margin-left: 50px;
+    margin-top: 80px;
+
+}
+
+input[type=text] {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #bebebe;
+    background-color: #eee;
+    font-size: 1.5rem;
+}
+
+#subject{
+	box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #bebebe;
+    background-color: #eee;
+    font-size: 1.5rem;
+    height:200px;
+    width: 70%
+
+}
+
+.container{
+	    margin-left: 50px;
+	        padding-bottom: 80px
+}
+
+.contact_form{
+	float: left;
+	width: 50%;
+}
+.text{
+float: right;
+width: 50%;
+padding-top: 70px;
+font-size: 1.5rem;
+color: #767c83;
+
+
+}
+p{
+	
+}
+
+.note{
+	margin-top: 150px;
+}
+
+.desc_profil{
+	float: left;
+	width: 70%;
+	color: white;
+	font-size: 1.25rem;
+}
+
+ h1{
+		color: #888;
+	text-align: center;
+	font-size: 2em;
+
+}
+
